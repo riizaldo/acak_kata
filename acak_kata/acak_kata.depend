@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1569839726 source:g:\zedl\gameprogramming\acak_kata\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1569839726 source:g:\zedl\gameprogramming\bahan_uts\acak_kata\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
